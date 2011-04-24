@@ -11,8 +11,8 @@ scheme with less overhead, see http://en.wikipedia.org/wiki/YEnc for more
 information.
 
 requirements:
- * python 2.6
- * yenc module for python: http://www.golug.it/yenc.html
+* python 2.6
+* yenc module for python: http://www.golug.it/yenc.html
 
 usage:
 
@@ -23,19 +23,19 @@ specifies a different profile.
 
 to switch to a profile type:
 
-  ymap profile default
+    ymap profile default
 
 to yencode and upload a file to your server type:
 
-  ymap put example.file
+    ymap put example.file
 
 to get a file list type:
 
-  ymap list
+    ymap list
 
 each file is prepended with a number. to download file number 1 type:
 
-  ymap get 1
+    ymap get 1
 
 
 written by sebastian volland

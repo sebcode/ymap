@@ -11,6 +11,7 @@ scheme with less overhead, see http://en.wikipedia.org/wiki/YEnc for more
 information.
 
 requirements:
+
 * python 2.6
 * yenc module for python: http://www.golug.it/yenc.html
 

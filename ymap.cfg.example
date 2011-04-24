@@ -1,0 +1,10 @@
+# copy to ~/.ymap.cfg
+
+[default]
+Server=example.com
+Port=993
+SSL=true
+User=example
+Password=exampl3
+Folder=mydata
+
